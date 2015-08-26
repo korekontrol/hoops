@@ -1,0 +1,4 @@
+stups-mai
+stups-sevenseconds
+ansible
+pystache

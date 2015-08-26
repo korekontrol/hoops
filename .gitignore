@@ -1,3 +1,16 @@
+# Vendor contents
 vendor/*
 !vendor/.gitkeep
 
+# Python
+*.pyc
+*.egg*
+coverage.xml
+junit.xml
+.coverage
+dist/
+build/
+htmlcov/
+
+# Vi
+*.sw*
